@@ -1,7 +1,5 @@
 package leetCode;
 
-import java.lang.reflect.Array;
-
 public class Problem_2221 {
 
 	// 2221. Find Triangular Sum of an Array
