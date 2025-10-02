@@ -85,6 +85,5 @@ public class Problem_3541 {
 			maxConsonant = Math.max(maxConsonant, value);
 		}
 		return maxConsonant + maxVowels;
-
 	}
 }
